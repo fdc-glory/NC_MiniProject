@@ -1,0 +1,24 @@
+{
+  "originHash" : "dc295f7801c4d0b5845d01e1011fba4dca8c1f7009d0c2dd2b2b96b3e33dbf2c",
+  "pins" : [
+    {
+      "identity" : "lzviewpager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ladmini/LZViewPager",
+      "state" : {
+        "branch" : "master",
+        "revision" : "468a1661fe9071c4dc60e3b6527a82f35c501dad"
+      }
+    },
+    {
+      "identity" : "snapkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SnapKit/SnapKit",
+      "state" : {
+        "revision" : "2842e6e84e82eb9a8dac0100ca90d9444b0307f4",
+        "version" : "5.7.1"
+      }
+    }
+  ],
+  "version" : 3
+}
